@@ -1,6 +1,7 @@
-[![Header](https://github.com/AsyaPolyak/AsyaPolyak/blob/main/assets/header.png)]
+![Header](https://github.com/AsyaPolyak/AsyaPolyak/blob/main/assets/header.png)
 assets/header.png
-About me
+##Hi, how are you?👋
+##I’m a Frontend Developer with a passion for science 🎓 and photography 📸 
 
 Languages and Tools
 
