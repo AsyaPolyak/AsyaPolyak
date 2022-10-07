@@ -1,5 +1,5 @@
-![Header](https://github.com/AsyaPolyak/AsyaPolyak/blog/master/assets/header.png)
-
+[![Header](https://github.com/AsyaPolyak/AsyaPolyak/blog/master/assets/header.png)]
+assets/header.png
 About me
 
 Languages and Tools
