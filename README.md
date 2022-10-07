@@ -20,3 +20,4 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-9b323d?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100006379087898)
 
 ## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyapolyak)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyapolyak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
