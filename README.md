@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-<CSS3>-5a0526?style=for-the-badge&logo=CSS3)
 ![React](https://img.shields.io/badge/-<React>-5a0526?style=for-the-badge&logo=React)
 ![Python](https://img.shields.io/badge/-<Python>-5a0526?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-5a0526??style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-C++-5a0526??style=for-the-badge&logo=C%2b%2b&)
 ![Java](https://img.shields.io/badge/-<Java>-5a0526?style=for-the-badge&logo=Java)
 ![Udemy](https://img.shields.io/badge/-Udemy-5a0526?style=for-the-badge&logo=Udemy)
 ## Follow Me:
