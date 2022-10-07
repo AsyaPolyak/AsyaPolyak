@@ -18,3 +18,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-9b323d?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/asyapolyak?igshid=YmMyMTA2M2Y=)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9b323d?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasia-polyak-111416247/)
 [![Facebook](https://img.shields.io/badge/-Facebook-9b323d?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100006379087898)
+
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asyapolyak)](https://github.com/anuraghazra/github-readme-stats)
