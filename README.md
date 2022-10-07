@@ -10,6 +10,11 @@
 ![CSS3](https://img.shields.io/badge/-<CSS3>-5a0526?style=for-the-badge&logo=CSS3)
 ![React](https://img.shields.io/badge/-<React>-5a0526?style=for-the-badge&logo=React)
 ![Python](https://img.shields.io/badge/-<Python>-5a0526?style=for-the-badge&logo=Python)
-![C++](https://img.shields.io/badge/-C++-5a0526?style=for-the-badge&logo=C%2b&%2b?logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-5a0526??style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Java](https://img.shields.io/badge/-<Java>-5a0526?style=for-the-badge&logo=Java)
 ![Udemy](https://img.shields.io/badge/-Udemy-5a0526?style=for-the-badge&logo=Udemy)
 ## Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-9b323d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AsyaPolyak)
+[![Instagram](https://img.shields.io/badge/-Instagram-9b323d?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/asyapolyak?igshid=YmMyMTA2M2Y=)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9b323d?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasia-polyak-111416247/)
+[![Facebook](https://img.shields.io/badge/-Facebook-9b323d?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100006379087898)
