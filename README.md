@@ -1,4 +1,4 @@
-![Header](https://github.com/AsyaPolyak/AsyaPolyak/blob/main/assets/header.png)
+![Header](https://github.com/AsyaPolyak/AsyaPolyak/blob/main/assets/header-1.png)
 
 ## Hi, how are you?👋
 <li> I’m a Frontend Developer with a passion for science 🎓 and photography 📸 </li>
